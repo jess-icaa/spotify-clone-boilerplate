@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding: 0;
+    background-color: black;
+    font-family: sans-serif;
+    color:white;
+}
+
+.logo{
+    padding-top:50px;
+}
+
+.list{
+    align-items: left;
+    align-self: bottom;
+}
+
+.profile{
+    padding-left: 1300px;
+    align-self: right;
+    align-content: normal;
+}
+
+.goodmorning{
+    margin-top: 30px;
+    padding-left:300px;
+
+}
+
+.likedsongs{
+    padding-left:300px;
+}
+
+.dance{
+    padding-left:300px;
+}
+
+.neffex{
+    padding-left:600px;
+}
